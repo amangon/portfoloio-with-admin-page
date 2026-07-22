@@ -127,3 +127,4 @@ The Express server serves the built React app, so one service is enough.
 | POST | /api/upload | Admin | Upload image/video/3D model |
 | POST | /api/auth/login | — | Get admin JWT |
 # 3d-portfolio
+# 3d-portfolio
